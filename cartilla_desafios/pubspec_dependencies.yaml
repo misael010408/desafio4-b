@@ -1,0 +1,18 @@
+# Copiá este bloque dentro de pubspec.yaml, reemplazando la sección "dependencies:"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.5.1      # Desafío 4 (StateNotifier)
+  go_router: ^14.2.0            # Desafío 4C
+  http: ^1.2.2                  # Desafío 5
+  sqflite: ^2.3.3               # Desafío 6
+  path: ^1.9.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  firebase_core: ^3.6.0         # Desafío 7
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  mobile_scanner: ^5.2.3        # Desafío 8
+  flutter_local_notifications: ^17.2.3
+  intl: ^0.19.0
